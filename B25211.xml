@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable convention. Gentlemen, though you have a new name, yet I hope you are not all new members, ...</title>
+            <author>James, Elinor. ca. 1645-1719.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25211</idno><idno type="EEBO-CITATION">99887463</idno>
+  <idno type="VID">190412</idno>
+  <idno type="EEBO-PROQUEST">2240890463</idno>
+  
+            <idno type="STC">Wing J422bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[2]</idno>
+            <idno type="STC">ESTC R227684</idno>
+            <idno type="PROQUEST">ocm99887463</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887463e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190412)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable convention. Gentlemen, though you have a new name, yet I hope you are not all new members, ...</title>
+                  <author>James, Elinor. ca. 1645-1719.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Elinor James.</note>
+                  <note>Title includes first lines of text.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190412:1"/>
+            <head>To The Right Honourable Convention.</head>
+            <p>GEntlemen, Though you have a <hi>New Name,</hi> yet I hope you are not all <hi>New Members,</hi> but most of you I hope, are <hi>Sons of that Blessed Church of England, that has been always unstain'd for Loyalty:</hi> And now it is the <hi>Wisdom</hi> of <hi>God</hi> to try <hi>Loyalty</hi> by <hi>Popery,</hi> I hope the <hi>Lord</hi> will give you such <hi>Wisdom</hi> to <hi>Distinguish</hi> between <hi>Loyalty</hi> and <hi>Popery,</hi> that you may retain your <hi>Loyalty</hi> to the <hi>End;</hi> and I doubt not but <hi>You</hi> will obtain a <hi>Crown of Reward:</hi> And though there may be many things said against the <hi>King,</hi> yet <hi>do</hi> by <hi>him</hi> as you would have <hi>God do</hi> by <hi>you,</hi> and consider that <hi>he</hi> has been <hi>misled</hi> by <hi>strangers,</hi> as many <hi>Men</hi> has been <hi>misled</hi> by <hi>strange women,</hi> yet they are not willing their <hi>Wivei</hi> should turn <hi>them</hi> out of <hi>doors</hi> and take other <hi>Husbands,</hi> tho' <hi>they</hi> might do it by the <hi>Law,</hi> yet People would think such to be <hi>Bad Women:</hi> But I consider that <hi>He</hi> was <hi>Son</hi> to that <hi>Pious Prince</hi> whom spite and malice <hi>slew,</hi> and <hi>Brother</hi> to my <hi>Precious Sove<g ref="char:EOLhyphen"/>raign</hi> under whose <hi>Wings</hi> you had <hi>Peace</hi> and <hi>Plenty,</hi> and for their <hi>Sakes</hi> as well as for his <hi>Own,</hi> I love <hi>him</hi> although I never lov'd <hi>Popery:</hi> and therefore I made <hi>Application</hi> to the <hi>King</hi> from <hi>Time</hi> to <hi>Time,</hi> to forbear <hi>Promoting it,</hi> for I lov'd the <hi>King and Kingdoms Peace.</hi> But since it is so, I beseech <hi>Your Honours,</hi> not to add greater <hi>Sins</hi> to lesser; least at last you be without <hi>Hope:</hi>
+            </p>
+            <p>Therefore I humbly beseech <hi>You</hi> to make <hi>Application</hi> to the <hi>Lords,</hi> that there may be a <hi>Fast</hi> for <hi>Your</hi> better <hi>Direction</hi> in this <hi>Great Affair,</hi> (and because <hi>Mens Hearts</hi> are not prepared, that there may be <hi>Three Days Preparation</hi> before the <hi>Fast)</hi> that <hi>You</hi> may find <hi>Grace</hi> and <hi>Favour</hi> before <hi>God</hi> that <hi>He</hi> may <hi>Direct You,</hi> that all your <hi>Doings</hi> may be for <hi>His Glory,</hi> and the <hi>Good</hi> of the <hi>King</hi> and <hi>Kingdom;</hi> for you know that <hi>God</hi> would not allow the <hi>Children</hi> of <hi>Israel</hi> to go a <hi>whoring after other gods,</hi> neither is it <hi>His Will</hi> that <hi>your minds should run upon another king,</hi> but that <hi>You</hi> must <hi>Love Him,</hi> and <hi>Pray for Him,</hi> and wherein <hi>He</hi> has done <hi>Amiss, You</hi> must <hi>Pardon Him</hi> as you would have <hi>God Pardon You, Beseeching God</hi> to <hi>Convince</hi> and <hi>Convert Him,</hi> and be not <hi>Faithless</hi> but <hi>Believing:</hi> and in so <hi>Doing, You</hi> will oblidge <hi>Her</hi> who <hi>Wishes</hi> not any <hi>Thing</hi> above <hi>Your Present and Eternal Happiness.</hi>
+            </p>
+            <closer>
+               <signed>ELINOR JAMES.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
